@@ -158,7 +158,7 @@ div#cover-titles-container {
 	text-align: center;
 } div.para {
 	text-align: left;
-	max-width: 90vw;
+	max-width: 95vw;
 	width: 64vw;
 	background-color: #6a7d9b;
 	padding: 2rem;
@@ -212,6 +212,7 @@ nav a {
 
 	p {
 		font-size: 15px;
+		line-height: 1.25rem;
 	}
 	
 
