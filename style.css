@@ -94,9 +94,8 @@ h3 {
 }
 
 p { 
-	font-size: 20px;
-	line-height: 2rem;
-	letter-spacing: -.25px;
+	font-size: 17px;
+	line-height: 1.5rem;
 }
 
 
@@ -159,11 +158,13 @@ div#cover-titles-container {
 } div.para {
 	text-align: left;
 	max-width: 95vw;
-	width: 64vw;
+	width: 50vw;
 	background-color: black;
-	padding: 2rem;
+	padding: 3rem;
+	margin-bottom: 3rem;
 } .para p {
 	/*text-shadow: 0px 0px 3px #0c1d3e7d;*/
+	padding-bottom: 1rem;
 }
 
 @keyframes pulse {
